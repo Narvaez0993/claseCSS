@@ -8,5 +8,11 @@ h3 {
 
 .familiatexto{
     font-family: "papyrus";
-    font-size: 2em;
+    font-size: 15px;
+    color: #102FED;
+    text-align: justify;
+}
+
+body {
+    background-color: chocolate;
 }

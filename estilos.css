@@ -8,11 +8,40 @@ h3 {
 
 .familiatexto{
     font-family: "papyrus";
-    font-size: 15px;
-    color: #102FED;
+    font-size: 26px;
+    color: black;
     text-align: justify;
 }
 
-body {
-    background-color: chocolate;
+
+footer{
+    text-align: center;
 }
+
+.fondoprincipal{
+    background-color:rebeccapurple;
+}
+
+.headerprincipal{
+    background-color: green;
+}
+
+.headersecundario{
+    background-color: blue;
+}
+
+.imagenfondo{
+    background-image: url(img/medellin.jpg);
+    height: 500px;
+    background-attachment: fixed;
+}
+
+.textorojo{
+    color: red;
+}
+
+
+    
+    
+
+    

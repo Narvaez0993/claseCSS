@@ -40,7 +40,16 @@ footer{
     color: red;
 }
 
+table,td{
+    border: 2px solid;
+    border-collapse: collapse;
+    width: 20%;
+}
 
+tr:hover{
+    background-color: gray;
+
+}
     
     
 
